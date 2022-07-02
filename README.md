@@ -4,7 +4,7 @@ _A website where you can render your workouts (running or cycling) on map. You c
 
 ## Project URL
 
-[Your workouts]()
+[Your workouts](https://squirrel-map.netlify.app/)
 
 ## Tech
 
